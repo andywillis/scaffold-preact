@@ -2,8 +2,11 @@
   "name": "theme-test",
   "private": true,
   "version": "0.0.0",
+  "license": "CC-BY-NC-SA-4.0",
+  "author": "Andy Willis",
   "type": "module",
   "scripts": {
+    "sc": "cspell --config cspell.config.js",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
